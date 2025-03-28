@@ -8,7 +8,7 @@ The Caesar Cipher shifts each letter in the input text by a fixed number of plac
 
 Python 3.x installed on your system. Steps:
 
-Clone this repository: bash Copy code git clone https://github.com/SUHAS-HAR1SH/SCT_CS_01.git Run the program: bash Copy code python caesar_cipher.py Follow the prompts: Input your message. Provide the shift value. Choose whether to encrypt or decrypt.
+Clone this repository: bash Copy code git clone https://github.com/Bottasai7093/SAI-PRASAD-SCT_CS_01.git Run the program: bash Copy code python caesar_cipher.py Follow the prompts: Input your message. Provide the shift value. Choose whether to encrypt or decrypt.
 
 👨‍💻 Example Input: Enter your message: Hello World
 Enter the shift value: 3
